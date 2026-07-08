@@ -12,9 +12,9 @@ export default function ContactForm() {
   };
 
   const company = {
-    phone: "(000) 000-0000",
-    email: "Umarshiekh@gmail.com",
-    address: "232 Park Ville, Ave2, Brooklyn New York",
+    phone: "(307) 217-6268",
+    email: "chrissmith.ctl@gmail.com",
+    address: "412 N MAIN ST, STE 100, BUFFALO WY 82834",
     hours: "Mon - Fri: 8:00 AM - 5:00 PM EST",
     owner: "Umar Sheikh"
   };

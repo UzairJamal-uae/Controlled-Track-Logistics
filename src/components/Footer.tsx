@@ -4,9 +4,9 @@ import { Truck, Phone, Mail, MapPin, Facebook, Twitter, Linkedin, Instagram } fr
 export default function Footer() {
   const company = {
     name: "Controlled Track Logistics",
-    phone: "(000) 000-0000",
-    email: "Umarshiekh@gmail.com",
-    address: "232 Park Ville, Ave2, Brooklyn New York",
+    phone: "(307) 217-6268",
+    email: "chrissmith.ctl@gmail.com",
+    address: "412 N MAIN ST, STE 100, BUFFALO WY 82834",
   };
 
   return (
