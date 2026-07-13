@@ -39,7 +39,7 @@ export default function Hero() {
             </h1>
             
             <p className="text-lg text-gray-400 max-w-xl leading-relaxed font-medium">
-              Controlled Track Logistics (CTL) is your trusted partner for seamless logistics. 
+              Control Track Logistics (CTL) is your trusted partner for seamless logistics. 
               We deliver reliability across every mile with precision, care, and industry-leading expertise.
             </p>
           </div>

@@ -3,7 +3,7 @@ import { Truck, Phone, Mail, MapPin, Facebook, Twitter, Linkedin, Instagram } fr
 
 export default function Footer() {
   const company = {
-    name: "Controlled Track Logistics",
+    name: "Control Track Logistics",
     phone: "(307) 217-6268",
     email: "chrissmith.ctl@gmail.com",
     address: "412 N MAIN ST, STE 100, BUFFALO WY 82834",

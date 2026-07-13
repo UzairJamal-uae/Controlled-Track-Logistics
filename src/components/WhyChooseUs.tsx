@@ -40,7 +40,7 @@ export default function WhyChooseUs() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-brand font-bold uppercase tracking-widest text-sm mb-4">Our Advantage</h2>
-          <h3 className="text-4xl md:text-5xl font-black text-slate-900 mb-6">Why Choose Controlled Track Logistics?</h3>
+          <h3 className="text-4xl md:text-5xl font-black text-slate-900 mb-6">Why Choose Control Track Logistics?</h3>
           <p className="text-gray-500 max-w-2xl mx-auto text-lg">
             We combine industry expertise with high-performance standards to deliver superior logistics solutions.
           </p>

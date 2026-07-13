@@ -9,7 +9,7 @@ export default function Map() {
         allowFullScreen={true}
         loading="lazy"
         referrerPolicy="no-referrer-when-downgrade"
-        title="Controlled Track Logistics Location"
+        title="Control Track Logistics Location"
       ></iframe>
       <div className="absolute inset-0 pointer-events-none shadow-[inset_0_0_100px_rgba(0,0,0,0.1)]" />
     </section>

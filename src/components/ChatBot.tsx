@@ -7,7 +7,7 @@ import { cn } from "@/src/lib/utils";
 export default function ChatBot() {
   const [isOpen, setIsOpen] = useState(false);
   const [messages, setMessages] = useState([
-    { role: "bot", text: "Hello! I'm your Controlled Track Logistics assistant. How can I help you today?" },
+    { role: "bot", text: "Hello! I'm your Control Track Logistics assistant. How can I help you today?" },
   ]);
   const [input, setInput] = useState("");
   const scrollRef = useRef<HTMLDivElement>(null);
@@ -34,7 +34,7 @@ export default function ChatBot() {
       if (lower.includes("track")) botResponse = "Tracking is currently unavailable on our website. Please contact us for status updates.";
       else if (lower.includes("load")) botResponse = "We are currently updating our load board. Contact our operations team for active freight.";
       else if (lower.includes("service")) botResponse = "We offer Full Loads, Partial Loads, IFTA, and Factored Loads.";
-      else if (lower.includes("hello") || lower.includes("hi")) botResponse = "Hi there! How can Controlled Track Logistics help you move your precious cargo today?";
+      else if (lower.includes("hello") || lower.includes("hi")) botResponse = "Hi there! How can Control Track Logistics help you move your precious cargo today?";
 
       setMessages((prev) => [...prev, { role: "bot", text: botResponse }]);
     }, 1000);
@@ -58,7 +58,7 @@ export default function ChatBot() {
                 </div>
                 <div>
                   <h3 className="font-black text-xs uppercase tracking-widest">CTL Assistant</h3>
-                  <p className="text-[10px] text-white/70 font-bold uppercase tracking-tighter">Powered by Controlled Track Logistics (CTL)</p>
+                  <p className="text-[10px] text-white/70 font-bold uppercase tracking-tighter">Powered by Control Track Logistics (CTL)</p>
                 </div>
               </div>
               <button onClick={() => setIsOpen(false)} className="hover:bg-white/20 p-1.5 rounded-xl transition-colors">

@@ -16,7 +16,7 @@ export default function ContactForm() {
     email: "chrissmith.ctl@gmail.com",
     address: "412 N MAIN ST, STE 100, BUFFALO WY 82834",
     hours: "Mon - Fri: 8:00 AM - 5:00 PM EST",
-    owner: "Umar Sheikh"
+    owner: "Chriss Smith"
   };
 
   return (

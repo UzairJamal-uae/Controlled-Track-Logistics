@@ -35,7 +35,7 @@ export default function AboutPage() {
             <div className="space-y-8">
               <h2 className="text-4xl font-black text-white">Driven by Excellence, <br /><span className="text-brand-accent">Defined by Trust.</span></h2>
               <p className="text-gray-400 text-lg leading-relaxed">
-                CONTROLLED TRACK LOGISTICS is a dedicated truck dispatch company committed to helping small fleets keep their trucks moving. We believe every mile matters, We focus on securing quality loads, negotiating rates, and providing quality Dispatch.
+                CONTROL TRACK LOGISTICS is a dedicated truck dispatch company committed to helping small fleets keep their trucks moving. We believe every mile matters, We focus on securing quality loads, negotiating rates, and providing quality Dispatch.
               </p>
               <p className="text-gray-400 text-lg leading-relaxed">
                 Our experienced dispatch team handles load booking, broker communication, route planning, and dispatch paperwork so you can stay focused on the road. Whether you're running one truck or managing a growing fleet, we're here to simplify your operations and help your business grow.

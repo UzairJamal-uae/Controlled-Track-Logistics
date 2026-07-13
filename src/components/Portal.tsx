@@ -24,7 +24,7 @@ export default function Portal({ type }: PortalProps) {
           </h2>
           <p className="text-gray-500 text-lg leading-relaxed font-medium">
             Manage your shipments, documents, and payments in one centralized dashboard. 
-            Experience the power of Controlled Track Logistics' (CTL) digital ecosystem.
+            Experience the power of Control Track Logistics' (CTL) digital ecosystem.
           </p>
           
           <div className="space-y-4">
